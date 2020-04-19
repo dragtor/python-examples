@@ -21,6 +21,8 @@ if __name__ == '__main__':
     print("create bench object")
     b = Bench(1)
     print("print bench object", b)
+    class_room = Classroom(5)
+    print("print classroom object",class_room)
     
 
 
